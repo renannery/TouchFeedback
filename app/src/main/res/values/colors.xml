@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="md_red_A700">#D50000</color>
+
+    <color name="md_pink_A100">#FF80AB</color>
+
+    <color name="md_purple_800">#6A1B9A</color>
+
+    <color name="md_indigo_800">#283593</color>
+
+    <color name="md_blue_400">#42A5F5</color>
+
+    <color name="md_light_blue_A100">#80D8FF</color>
+
+    <color name="md_cyan_800">#00838F</color>
+
+    <color name="md_teal_800">#00695C</color>
+
+    <color name="md_green_A400">#00E676</color>
+
+    <color name="md_light_green_A200">#B2FF59</color>
+
+    <color name="md_lime_A200">#EEFF41</color>
+
+    <color name="md_yellow_900">#F57F17</color>
+
+    <color name="md_brown_800">#4E342E</color>
+
+</resources>
