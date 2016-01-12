@@ -1,6 +1,6 @@
 # TouchFeedback | Data Binding
 
-This example show how to add a custom attribute in regular Views for TouchFeedback effects using [Android Data Binding].
+This example shows how to add a custom attribute in regular Views for TouchFeedback effects using [Android Data Binding].
 
 In the class **[Bindings.java]** there is a method called "touchFeedback" that can be used in XML layout without a CustomView and set a touch feedback for views like:
   - RelativeLayout
@@ -27,3 +27,4 @@ The feedback effect for API >= 21 (LOLLIPOP) is a Ripple Effect and for older ve
 
 [![Demo TouchFeedback](https://j.gifs.com/PN7VxA.gif)](https://youtu.be/qYsaxhigFqs)
 
+I wrote a post about it as well https://developer.beer/touch-feedback-with-android-data-binding-3cffbc9d3ad8?gi=af725482d218#.61vh0e2uv
