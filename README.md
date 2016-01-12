@@ -19,8 +19,11 @@ The method **"touchFeedback"** has a ColorDrawable parameter that will be the fe
     android:src="@mipmap/ic_launcher"
     app:touchFeedback="@{@color/md_light_blue_A100}" />
 ```
+
 [Bindings.java]: <https://github.com/renannery/TouchFeedback/blob/master/app/src/main/java/br/com/nery/touchfeedback/Bindings.java>
 [Android Data Binding]: <http://developer.android.com/tools/data-binding/guide.html>
 
 The feedback effect for API >= 21 (LOLLIPOP) is a Ripple Effect and for older versions is a selector with a smooth transaction between states
+
+[![Demo TouchFeedback](https://j.gifs.com/PN7VxA.gif)](https://youtu.be/qYsaxhigFqs)
 
